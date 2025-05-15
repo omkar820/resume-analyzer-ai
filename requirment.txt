@@ -1,4 +1,6 @@
-streamlit
-openai
-pdfminer.six
-reportlab
+streamlit==1.35.0
+openai==1.28.1
+pdfminer.six==20221105
+reportlab==4.1.0
+python-dotenv==1.0.1
+
